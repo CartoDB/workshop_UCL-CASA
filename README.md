@@ -1,4 +1,4 @@
-# Material for the workshop CARTO for Spatial Data Science
+# Material for the workshop `CARTO for Spatial Data Science`
 
 This is a GitHub page containing some data sets and Jupyter notebooks used in the workshop **CARTO for Spatial Data Science** (https://carto.com/) at The Bartlett Centre for Advanced Spatial Analysis - UCL (London).
 
