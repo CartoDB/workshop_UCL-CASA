@@ -1,6 +1,6 @@
 # Material for the workshop CARTO for Spatial Data Science
 
-This is a GitHub page containing some data sets and Jupyter notebooks run during the workshop **CARTO for Spatial Data Science** (https://carto.com/) at The Bartlett Centre for Advanced Spatial Analysis - UCL (London).
+This is a GitHub page containing some data sets and Jupyter notebooks used in the workshop **CARTO for Spatial Data Science** (https://carto.com/) at The Bartlett Centre for Advanced Spatial Analysis - UCL (London).
 
 ## Training on the CARTO platform for Spatial Data Science
 
@@ -34,6 +34,6 @@ The `notebooks/src_import` directory contains some helper functions.
 
 ## Location Data Streams & Spatial Models
 
-Finally, the `demos/` directory contains the html versions of the jupyter notebooks run during the session.
+Finally, the `demos/` directory contains the html versions of the jupyter notebooks discussed during the session.
 
 Good luck!
