@@ -20,7 +20,7 @@ The `notebooks/data` directory contains data, which are needed to run the exampl
 
 The `notebooks/src_import` directory contains some helper functions.
 
-### What you need to run the notebooks
+#### What you need to run the notebooks
 
 - **Python**. Follow instructions here: https://www.anaconda.com/distribution/ If you want to set up a virtual environment here is how you can do it: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/.
 
@@ -30,7 +30,7 @@ The `notebooks/src_import` directory contains some helper functions.
 
 - **R kernel for Jupyter**. Follow the instructions here: https://medium.com/@kyleake/how-to-install-r-in-jupyter-with-irkernel-in-3-steps-917519326e41 or if you have a MAC here: https://www.r-bloggers.com/how-to-install-r-kernel-for-jupyter-on-mac-os-x/.
 
-- All python packages in the `notebooks/requirements.txt` file. Open your terminal and run `pip install -r requirements.txt`.
+- All python packages in the `notebooks/requirements.txt` file. To install them, open your terminal and run `pip install -r requirements.txt`.
 
 ## Location Data Streams & Spatial Models
 
