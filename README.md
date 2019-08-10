@@ -8,13 +8,13 @@ In the `notebooks` directory, you can find the following Jupyter notebooks:
 
 - `notebooks/Visualizing_spatial_data.ipynb` - A good place to start. It shows how to easily visualize data on a map using CARTOframes.
 
-- `notebooks/Spatial_dependence.ipynb` - A Jupyter notebook for undestanding if there is any spatial dependence in your data and visualize the results using CARTOframes.
+- `notebooks/Spatial_dependence.ipynb` - A Jupyter notebook for exploring spatial dependence in your data and for visualizing the results using CARTOframes.
 
-- `notebooks/Discrete_spatial_models.ipynb` - A Jupyter notebook to run some examples of spatial models for discrete processes and visualize the results using CARTOframes.
+- `notebooks/Discrete_spatial_models.ipynb` - A Jupyter notebook to run some examples of spatial models for discrete processes and for visualizing the results using CARTOframes.
 
-- `notebooks/Continous_spatial_models.ipynb` - A Jupyter notebook to run some examples of spatial models for continous processes and visualize the results using CARTOframes.
+- `notebooks/Continous_spatial_models.ipynb` - A Jupyter notebook to run some examples of spatial models for continuous processes and for visualizing the results using CARTOframes.
 
-- `notebooks/Continous_spatial_models.ipynb` - A Jupyter notebook to solve the Travelling salesman optimization problem and visualize the results using CARTOframes.
+- `notebooks/Optimization_TSP.ipynb` - A Jupyter notebook to solve the Travelling salesman optimization problem and for visualizing the results using CARTOframes.
 
 The `notebooks/data` directory contains data, which are needed to run the examples.
 
