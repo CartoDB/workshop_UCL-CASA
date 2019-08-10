@@ -34,6 +34,6 @@ The `notebooks/src_import` directory contains some helper functions.
 
 ## Location Data Streams & Spatial Models
 
-Finally, the `demos/` directory contains two html versions of the jupyter notebooks . 
+Finally, the `demos/` directory contains the html version of the jupyter notebook for the *twin area analysis* applied to WeWork offices. 
 
 Good luck!
