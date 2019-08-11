@@ -16,6 +16,8 @@ In the `notebooks` directory, you can find the following Jupyter notebooks:
 
 - `notebooks/Optimization_TSP.ipynb` - A Jupyter notebook to solve the Travelling salesman optimization problem and for visualizing the results using CARTOframes.
 
+- `notebooks/Connect_to_DB.ipynb` - A Jupyter notebook showing how to upload, download, query and visualize data on a map using CARTOframes.
+
 The `notebooks/data` directory contains data, which are needed to run the examples.
 
 The `notebooks/src_import` directory contains some helper functions.
